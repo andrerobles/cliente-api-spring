@@ -1,4 +1,4 @@
-package br.com.mightycode;
+package br.com.mightycode.models;
 
 public class Greeting {
 	private final long id;

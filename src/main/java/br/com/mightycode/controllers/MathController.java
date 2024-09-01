@@ -1,4 +1,4 @@
-package br.com.mightycode;
+package br.com.mightycode.controllers;
 
 import java.util.concurrent.atomic.AtomicLong;
 
