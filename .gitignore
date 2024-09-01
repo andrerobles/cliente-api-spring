@@ -1,3 +1,12 @@
+.env
+
+/node_modules
+
+# SSH Keys
+
+*.pem
+*.ppk
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
